@@ -4,7 +4,7 @@ services:
     image: mongo:5.0.3
     ports:
       - "27017:27017"
-  restaurant-service:
+  restaurant-service: # The name: restaurant-service_restaurant-service_1 -> Because the folder is restaurant-service
     build: .
     ports:
       - "8080:8080"
