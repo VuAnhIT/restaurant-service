@@ -1,3 +1,87 @@
+POST http://localhost:8080/restaurants
+Content-Type: application/json
+
+{
+  "id": "1",
+  "name": "Tris",
+  "address": "Test",
+  "capacity": 20,
+  "openingDays": ["SATURDAY"]
+}
+
+###
+
+POST http://localhost:8080/restaurants
+Content-Type: application/json
+
+{
+  "id": "1",
+  "name": "Tris",
+  "address": "Test",
+  "capacity": 20,
+  "openingDays": ["SATURDAY"]
+}
+
+###
+
+POST http://localhost:8080/restaurants
+Content-Type: application/json
+
+{
+  "id": "1",
+  "name": "Tris",
+  "address": "Test",
+  "capacity": 20,
+  "openingDays": ["SATURDAY"]
+}
+
+###
+
+POST http://localhost:8080/restaurants
+Content-Type: application/json
+
+{
+  "id": "1",
+  "name": "Tris",
+  "address": "Test",
+  "capacity": 20,
+  "openingDays": ["SATURDAY"]
+}
+
+###
+
+POST http://localhost:8080/restaurants
+Content-Type: application/json
+
+{
+  "id": "1",
+  "name": "Tris",
+  "address": "Test",
+  "capacity": 20,
+  "openingDays": ["STURDAY"]
+
+}
+
+<> 2022-03-20T214655.400.json
+
+###
+
+POST http://localhost:8080/restaurants
+Content-Type: application/json
+
+{
+  "id": "1",
+  "name": "Tris",
+  "address": "Test",
+  "capacity": 20,
+  "openingDays": ["STURDAY"]
+
+}
+
+<> 2022-03-20T214634.400.json
+
+###
+
 GET http://localhost:8080/restaurants/1
 
 <> 2021-04-30T151338.200.json
